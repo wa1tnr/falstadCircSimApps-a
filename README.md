@@ -1,6 +1,11 @@
 Falstad Circuit Simlator code/projects
 
-Wed  8 Dec 04:00:46 UTC 2021
+Wed  8 Dec 20:55:17 UTC 2021
+
+Use:
+
+  [ https://www.falstad.com/circuit/circuitjs.html ]
+
 
 locally authored
 
